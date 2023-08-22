@@ -6,12 +6,12 @@
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 80px;
     position: inherit;
 }
 .titulo{
-    font-size: 10px;
-    color: rgb(146, 83, 204);
+    font-size: 17px;
+    color: rgb(198, 23, 221);
     margin-bottom: 7px;
     text-align: center;
 }
